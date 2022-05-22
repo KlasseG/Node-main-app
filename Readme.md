@@ -49,4 +49,6 @@ KlasseG es una WebApp que prioriza la interacción con el usuario y su facilidad
 
 ## Paso de desarollo actual
 
-- Configuración del servidor
+- Configuración del servidor Listo
+- Conexión con la base de datos Listo
+- Configuración de las vistas de HTML dentro de las rutas del servidor
